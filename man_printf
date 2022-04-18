@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf 1 "16 Mar 2021" "1.0" "_printf manpage"
+.TH _printf 1 "16 Mar 2022" "1.0" "_printf manpage"
 .so man1./_printf
 .SH NAME
     _printf \- format and print data
@@ -26,4 +26,4 @@
 .SH BUGS
     No known bugs.
 .SH AUTHOR
-    Written by Salomé Grisales and Natalia Vera
+    Written by  and
