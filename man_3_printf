@@ -1,10 +1,10 @@
 .\" Manpage for _printf.
-.TH _printf (3) "16 Mar 2021" "1.0" "_printf manpage"
+.TH _printf (3) "16 Mar 2022" "1.0" "_printf manpage"
 .so man3./_printf
 .SH NAME
     _printf \- format and print data
 .SH SYNOPSIS
-	#include "holberton.h"
+	#include "main.h"
 .br
 	_printf [FORMAT] ARGUMENT...
 .br
