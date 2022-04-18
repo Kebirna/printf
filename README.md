@@ -2,8 +2,6 @@
 
 This repository contains our own version of the function printf, originally included in the library stdio.h.
 
-![](https://camo.githubusercontent.com/7ae24cd7299112d0306349df5f4cd38c3f1c8db4ce4db21513c1009334c0cab2/68747470733a2f2f696d672e64657672616e742e636f6d2f64657672616e742f72616e742f725f323336383635345f316b574a782e6a7067)
-
 ## Introduction
 Emulates the operation of the printf function which delivers an output according to a format composed by zero or more directives and conversion specifiers:
 
@@ -21,7 +19,7 @@ Specifier | Input example | Output example
 
 |File| Description |
 |--|--|
-| **holberton.h** | the header file where are all the prototypes and the structure we use. |
+| **main.h** | the header file where are all the prototypes and the structure we use. |
 | **_printf.c** | the main program.||
 | **man_3_printf**| man-page for the program _printf.|
 | **_putchar.c** | here is the function to print one by one character.|
@@ -40,7 +38,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 ## Examples to use it
 
 
-    #include "holberton.h"
+    #include "main.h"
     /**
      * main - main function
      * Return: always 0
@@ -54,7 +52,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
     output: Hello World!
 ---
 
-    #include "holberton.h"
+    #include "main.h"
     /**
      * main - main function
      * Return: always 0
@@ -71,7 +69,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 ---
 
 
-    #include "holberton.h"
+    #include "main.h"
     /**
      * main - main function
      * Return: always 0
@@ -93,5 +91,5 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
 ## Authors
 
-* **Natalia Vera** [github](https://github.com/Naveduran) - naveduran@gmail.com
-* **Salomé Grisales** [github](https://github.com/aike-s) - sagrilo804@gmail.com
+* **** [github](https://github.com/) - @gmail.com
+* **Salomé Grisales** [github](https://github.com/) - @gmail.com
